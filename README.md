@@ -27,12 +27,21 @@ To play the Hangman game or explore the code, follow these steps:
 3. Continue guessing letters until you either:
   - Successfully guess the word.
   - Run out of attempts, resulting in a loss.
+
 # Customization
 Feel free to customize the game by making changes to the code. Some ideas for customization include:
 
 - Adding more words to the word list.
 - Modifying the number of allowed incorrect guesses.
 - Enhancing the user interface.
+
+# Contributions
+Contributions to improve the game or add new features are welcome. If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch for your feature or bug fix.
+3. Make your changes and commit them with clear and concise commit messages.
+4. Create a pull request, detailing the changes you made and why they should be merged.
 
 # Acknowledgments
 I would like to express my gratitude to WBS Coding School for providing me with the opportunity to work on this project and improve my Python programming skills.
