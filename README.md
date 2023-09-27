@@ -17,15 +17,9 @@ In this project, I aimed to practice my Python programming skills by creating a 
 # Getting Started
 To play the Hangman game or explore the code, follow these steps:
 
-1. Clone the repository to your local machine:
+1. Open the Jupyter Notebook file (Hangman.ipynb) in Google Colab or your preferred Python environment.
 
-```
-git clone https://github.com/anurag150391/Hangman.git
-```
-
-2. Open the Jupyter Notebook file (Hangman.ipynb) in Google Colab or your preferred Python environment.
-
-3. Run the notebook cells to play the game or review the code.
+2. Run the notebook cells to play the game or review the code.
 
 # How to Play
 1. Run the game code cell in the notebook.
